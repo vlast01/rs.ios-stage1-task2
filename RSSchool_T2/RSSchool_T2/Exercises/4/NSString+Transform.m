@@ -3,7 +3,7 @@
 @implementation NSString (Transform)
 
 -(NSString*)transform {
-    return self;
+    return @"";
 }
 
 @end
